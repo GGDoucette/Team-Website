@@ -1,3 +1,10 @@
-* {
-    color: red;
+ .p{
+    color: darkblue;
+    size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.h1{
+    size: 40px;
+    font-family: 'Times New Roman', Times, serif;
 }
