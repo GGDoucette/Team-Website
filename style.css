@@ -1,18 +1,24 @@
  p{
     color: darkblue;
     font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 10;
 }
 
 h1{
     font-family: 'Times New Roman', Times, serif;
-   
+   font-size: 30px;
 }
 
 img{
     width:500px;
-    border-color: bisque;
+    
 }
 
-.freepik :active{
-width: 15px;
+.freepik{
+font-size: xx-small;
+}
+
+li{
+    font-size: 20px;
 }
